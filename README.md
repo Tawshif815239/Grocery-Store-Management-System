@@ -162,6 +162,7 @@ Super Admin has full system control and can:
 # System Design
 
 ## Database Schema
+![Database Schema](schema.png)
 
 The system contains the following major tables:
 
@@ -394,7 +395,43 @@ Possible future enhancements:
 - Discount coupon system
 
 ---
+# Project Screenshots
 
+## 1. Login Form
+![Login Form](1.jpeg)
+
+## 2. Registration Form
+![Registration Form](2.jpeg)
+
+## 3. Customer Dashboard
+![Customer Dashboard](3.jpeg)
+
+## 4. Product List
+![Product List](4.jpeg)
+
+## 5. Product Details
+![Product Details](5.jpeg)
+
+## 6. Cart Form
+![Cart Form](6.jpeg)
+
+## 7. Checkout / Place Order Form
+![Checkout Form](7.jpeg)
+
+## 8. My Orders Form
+![My Orders](8.jpeg)
+
+## 9. Profile Form
+![Profile Form](9.jpeg)
+
+## 10. Admin Inventory Management
+![Admin Inventory](10.png)
+
+## 11. Admin Dashboard
+![Admin Dashboard](11.png)
+
+## 12. Super Admin Panel
+![Super Admin](12.png)
 # License
 
 This project is developed for academic purposes at **AIUB**.
