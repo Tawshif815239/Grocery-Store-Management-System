@@ -58,6 +58,9 @@ The goal is to create a simple, user-friendly, and efficient system that reflect
 
 ---
 
+> **Project Status:**  
+> This project is currently under active development. Additional features, improvements, and bug fixes will be completed before the viva examination.
+
 # Objectives
 
 The main objectives of this system are:
